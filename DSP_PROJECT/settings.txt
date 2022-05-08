@@ -1,4 +1,4 @@
 Here is a list of all the settings used:
-Import: C:\Users\usman\OneDrive2\OneDrive\UA\6-Digital Signal Processing\Digital-Signal-Processing\DSP_PROJECT\DATA\PP01\/S1_MVC_delt_links.txt
+Import: C:\Users\arafa\OneDrive\Bureaublad\Arafa\Digital-Signal-Processing\DSP_PROJECT\DATA\PP01\/S1_MVC_delt_links.txt
 Convert to mV
 Executed Fast Fourrier Transform
