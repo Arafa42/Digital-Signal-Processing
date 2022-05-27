@@ -1,0 +1,75 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="547084232" file="C:\Users\arafa\OneDrive\Documenten\GitHub\Digital-Signal-Processing\DSP_PROJECT\DSP_PROJECT.prj" location="C:\Users\arafa\OneDrive\Documenten\GitHub\Digital-Signal-Processing\DSP_PROJECT" name="DSP_PROJECT" target="target.mlapps" target-name="Package App">
+    <param.appname>DSP_PROJECT</param.appname>
+    <param.authnamewatermark>Arafa Yoncalik</param.authnamewatermark>
+    <param.email>arafayon@gmail.com</param.email>
+    <param.company>Universiteit Antwerpen</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>sEMG analysis toolbox.</param.summary>
+    <param.description />
+    <param.screenshot>C:\Users\arafa\AppData\Local\Temp\tpa38ba04b_0e8e_4673_b35c_e3341d860e3a.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>C:\Users\arafa\OneDrive\Bureaublad</param.output>
+    <param.guid>306309c4-f510-4d24-9445-1853708f090b</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\DSP_PROJECT.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>C:\Users\arafa\AppData\Roaming\MathWorks\MATLAB Add-Ons\Collections\filter1\filter1\filter1.m</file>
+      <file>${PROJECT_ROOT}\A.png</file>
+      <file>${PROJECT_ROOT}\B.png</file>
+      <file>${PROJECT_ROOT}\convert.png</file>
+      <file>${PROJECT_ROOT}\exit.png</file>
+      <file>${PROJECT_ROOT}\exportMVC.xlsx</file>
+      <file>${PROJECT_ROOT}\exportTrackA.xlsx</file>
+      <file>${PROJECT_ROOT}\exportTrackB.xlsx</file>
+      <file>${PROJECT_ROOT}\frequency.png</file>
+      <file>${PROJECT_ROOT}\import.png</file>
+      <file>${PROJECT_ROOT}\line-graph.png</file>
+      <file>${PROJECT_ROOT}\remove.png</file>
+      <file>${PROJECT_ROOT}\settingsMVC.txt</file>
+      <file>${PROJECT_ROOT}\settingsTrackA.txt</file>
+      <file>${PROJECT_ROOT}\settingsTrackB.txt</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\arafa\OneDrive" name="Bureaublad" optional="false">C:\Users\arafa\OneDrive\Bureaublad</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2021b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
